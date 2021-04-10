@@ -1,2 +1,2 @@
 # myportfolio.github.io
-My portfolio
+Ссылка на сайт: https://diacademy-courses.github.io/myportfolio.github.io/
